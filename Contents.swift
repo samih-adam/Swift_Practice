@@ -36,3 +36,9 @@ print(b)
 print(a + b)
 print("The value of a is \(a)")
 print("The value of b is \(b)")
+
+var c = a //c=5
+a = b
+b = c // b=
+print(a)
+print(b)
