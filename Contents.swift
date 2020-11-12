@@ -14,3 +14,8 @@ var str = "Hello, playground"
  comment
  for your code*/
 
+//performing a calculation
+
+print("Hello \(2+3) World!")
+
+print("I am \(15+7) years old")
