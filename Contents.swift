@@ -15,7 +15,10 @@ var str = "Hello, playground"
  for your code*/
 
 //performing a calculation
+// String Interpolation \()
 
 print("Hello \(2+3) World!")
 
 print("I am \(15+7) years old")
+
+print("The result of 5 + 3 = \(5 + 3) ")
